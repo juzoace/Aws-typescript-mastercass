@@ -1,6 +1,6 @@
 ##Aws typescript mastercass course
 
-This repo contains code which i used to learn the the ws typescript masterclass course by alex horea
+This repo contains code which i used to learn the the AWS typescript masterclass course 
 
 There are 2 folders
 
